@@ -91,8 +91,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## Output :
 
-#### Name - Jeevansurya K
-#### Reg. No. - 212222040061
+#### Name - n v mohana krishna
+#### Reg. No. - 212224100039
 
 ### Folder before deleting the files
 ![WhatsApp Image 2025-08-21 at 15 00 55_ac1a5e5d](https://github.com/user-attachments/assets/8d816c51-a4e7-4eb0-b104-12f1172d4563)
