@@ -64,7 +64,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
-<img width="1919" height="1199" alt="Screenshot 2025-09-13 141431" src="https://github.com/user-attachments/assets/b6bede89-a93f-4fc3-9112-82fb7759d2ba" />
+
 
 
 ## Output :
@@ -72,7 +72,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 <img width="1919" height="1199" alt="Screenshot 2025-09-13 141431" src="https://github.com/user-attachments/assets/6b929449-d90f-47af-b7bd-9d97e447aa5f" />
 
-![Uploading Screenshot 2025-09-13 141439.png…]()
+<img width="1853" height="1199" alt="image" src="https://github.com/user-attachments/assets/d1f2b99b-9102-4200-9f56-7a726e08b37b" />
+
 
 
 
