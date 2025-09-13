@@ -42,40 +42,16 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/c1496db4-5a37-4f85-8863-413902245937" />
+<img width="1814" height="1114" alt="Screenshot 2025-09-13 142202" src="https://github.com/user-attachments/assets/fefa6d0a-5da5-46a6-81dd-fb98e91a5164" />
 
+- folder before deleting
+  <img width="1213" height="688" alt="Screenshot 2025-09-13 140600" src="https://github.com/user-attachments/assets/c5a3fbe4-2764-4a45-a412-058f477254c0" />
+- folder after deleting
+  <img width="1209" height="687" alt="Screenshot 2025-09-13 140609" src="https://github.com/user-attachments/assets/82207d8c-ec23-4ddd-a6ee-036a04b16d34" />
+- autopsy
+<img width="1702" height="1078" alt="Screenshot 2025-09-13 140758" src="https://github.com/user-attachments/assets/ffe63d58-ec59-4e02-b529-d837e131c5bb" />
+<img width="1719" height="1075" alt="Screenshot 2025-09-13 140921" src="https://github.com/user-attachments/assets/072d06f3-52c4-4dcd-a51d-3d020c53eaf2" />
 
-- Enter a **Case Name** (e.g., `Autopsy1`).  
-- Choose a **Case Folder** location.  
-- Click **Next** → Click **Finish**.  
-
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6a802e96-34e2-4c76-b0e7-16f7a7193b7c" />
-
-
-### **Add the Virtual Disk as an Evidence Source**  
-- Click **Add Data Source**  → **Select Host**
-
-- Select **Local Disk** → **next** 
-
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/2d9c5a0e-3130-4d43-9df6-55edf8dcfa9d" />
-
-
-- Select Disk → **Choose the VHD drive (`Drive1`)**
-
-
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/38933ec9-c650-4a3b-99dc-66b74528a2f5" />
-
-- Click **Next** → Keep default settings → Click **Finish**.  
-- Wait for Autopsy to process the disk.  
-
-### **Recover Deleted Files**  
-- Go to **File Views** (left panel).  
-
-
-![WhatsApp Image 2025-08-21 at 15 00 55_74532e98](https://github.com/user-attachments/assets/b016d956-9b08-4c0a-b27b-d7a1107cbc4e)
-
-
-![WhatsApp Image 2025-08-21 at 15 00 55_ac1a5e5d](https://github.com/user-attachments/assets/6318dfa3-ef33-42b5-bfe0-708de73dadc7)
 
 
 
@@ -84,19 +60,19 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
+<img width="1919" height="1199" alt="Screenshot 2025-09-13 141326" src="https://github.com/user-attachments/assets/af85f9a3-913b-484f-a6b6-e6e3c2e45a4a" />
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
+<img width="1919" height="1199" alt="Screenshot 2025-09-13 141431" src="https://github.com/user-attachments/assets/b6bede89-a93f-4fc3-9112-82fb7759d2ba" />
 
 
 ## Output :
 
-#### Name - n v mohana krishna
-#### Reg. No. - 212224100039
 
-### Folder before deleting the files
-![WhatsApp Image 2025-08-21 at 15 00 55_ac1a5e5d](https://github.com/user-attachments/assets/8d816c51-a4e7-4eb0-b104-12f1172d4563)
+<img width="1919" height="1199" alt="Screenshot 2025-09-13 141431" src="https://github.com/user-attachments/assets/6b929449-d90f-47af-b7bd-9d97e447aa5f" />
 
+![Uploading Screenshot 2025-09-13 141439.png…]()
 
 
 
